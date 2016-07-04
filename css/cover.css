@@ -201,6 +201,8 @@ body {
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 200px 0;
+	font-size: 18px; 
+	font-weight: 700;
 }
 
 #home {
@@ -213,6 +215,8 @@ body {
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 200px 0;
+	font-size: 18px; 
+	font-weight: 700;
 }
 
 #about {
@@ -226,6 +230,8 @@ body {
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 200px 0;
     color: #fff;
+	font-size: 18px; 
+	font-weight: 700;
 }
 
 #separator {
