@@ -195,6 +195,7 @@ body {
 #intro {
     background: url('../images/elbowfalls2.jpg') 50% 0 fixed;
     background-size:cover;
+	background-color:black;
     height: auto; 
     margin: 0 auto; 
     width: 100%; 
@@ -209,6 +210,7 @@ body {
     background: url('../images/11mile.jpg') 50% 0 fixed; 
     background-size:cover;
     background-repeat:no-repeat;
+	background-color:black;
     height: auto; 
     margin: 0 auto; 
     width: 100%; 
@@ -223,10 +225,11 @@ body {
     background: url('../images/rubyhorsetheif.jpg') 50% 0 fixed; 
     background-size:cover;
     background-repeat:no-repeat;
+	background-color:black;
     height: auto; 
     margin: 0 auto; 
     width: 100%; 
-    position: relative; 
+    position: bottom; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 200px 0;
     color: #fff;
