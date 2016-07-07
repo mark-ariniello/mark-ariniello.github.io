@@ -248,7 +248,8 @@ body {
 /* Text Box */
 .transparent {
     margin: 50px;
-    background:rgba(108,123,139,0.5);
+	color: #444;
+    background:rgba(255,255,255,0.5);
     position: relative; 
 }
 
@@ -265,7 +266,7 @@ body {
 }
 
 .navbar-brand h1{
-	color: #fff;
+  color: #fff;
   font-size: 20px;
   line-height: 30px;
 }
