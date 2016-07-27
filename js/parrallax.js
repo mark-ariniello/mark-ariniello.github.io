@@ -19,7 +19,7 @@ $(document).ready(function () {
             var yPos = -($window.scrollTop() / $scroll.data('speed'));
 
             //background position 
-            var coords = '80% ' + yPos + 'px';
+            var coords = '20% ' + yPos + 'px';
 
             //move the background
             $scroll.css({ backgroundPosition: coords });
