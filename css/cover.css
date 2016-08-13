@@ -35,6 +35,8 @@ body {
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 
+
+
 /* Scrolling css*/
 .hsContainer {
     display: table;
@@ -239,21 +241,6 @@ body {
 	font-weight: 700;
 }
 
-#shirts {
-    background: url(images/bridges.jpg) 50% 0 fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: black;
-    height: auto;
-    margin: 0 auto;
-    width: 100%;
-    position: relative;
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
-    padding: 200px 0;
-    font-size: 18px;
-    font-weight: 700;
-}
-
 #separator {
     background-color: black;
     color: black;
@@ -265,6 +252,16 @@ body {
     padding: 50px 0;
 }
 
+/* images size */
+.img-full {
+    width: 140%;
+}
+
+/* fb buttonn */
+.fbButton {
+    align-content: center; 
+
+}
 /* Text Box */
 .transparent {
     margin: 50px;
